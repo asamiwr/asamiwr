@@ -1,5 +1,7 @@
 # Hi, I'm Amirhossein
 
+![gitartwork](gitartwork.svg)
+
 🎓 Computer Engineering Student  
 💻 Open-Source Enthusiast | Linux User | Rust Learner  
 🚀 Passionate about Systems Programming & Blockchain  
