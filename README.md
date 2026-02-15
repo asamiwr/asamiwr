@@ -1,6 +1,6 @@
 # Hi, I'm Amirhossein
 
-![gitartwork](gitartwork.svg)
+<!-- ![gitartwork](gitartwork.svg) -->
 
 🎓 Computer Engineering Student  
 💻 Open-Source Enthusiast | Linux User | Rust Learner  
